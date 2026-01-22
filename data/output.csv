@@ -1,0 +1,3 @@
+id_cita,paciente,fecha_cita,especialidad,estado,telefono,costo
+1,Juan Perez,True,MEDICINA GENERAL,CONFIRMADA,NO REGISTRA,150
+4,Carlos Ruiz,True,MEDICINA GENERAL,CONFIRMADA,NO REGISTRA,300
